@@ -1,0 +1,16 @@
+{
+  "name": "complete-course",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "light-server": "^2.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "light-server -s . -p 7000 -w *.js, index.html # npm run build # reload"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

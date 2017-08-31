@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    /* Basic Options */
+    "target": "es5", /* Specify ECMAScript target version: 'ES3' (default), 'ES5', 'ES2015', 'ES2016', 'ES2017', or 'ESNEXT'. */
+    "module": "commonjs", /* Specify module code generation: 'commonjs', 'amd', 'system', 'umd', 'es2015', or 'ESNext'. */
+    "sourceMap": false, /* For debugging TypeScript file on the browser - Sources Tab */
+    "noImplicitAny": true, /*For avoiding default type to be 'any'*/
+    "noUnusedParameters": false, /*For avoiding using unused parameter in our code*/
+    "strictNullChecks": true /* Enable strict null checks. */
+    //"noEmitOnError": true                  /* Does not create JS file on compilation error. */
+  }
+}
