@@ -51,7 +51,7 @@ function makeArray(name) {
 }
 console.log(makeArray('TGOD', 4, 5, 7, 9));
 console.log('DESTRUCTURING');
-var newHobbies = ['Playing Piano', 'AquaHobbist'];
+var newHobbies = ['Playing Piano', 'AquaHobbist']; //Arrays
 // const newHobby1 = newHobbies[0];
 // const newHobby2 = newHobbies[1];
 var newHobby1 = newHobbies[0], newHobby2 = newHobbies[1];

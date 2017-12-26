@@ -8,7 +8,7 @@
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start" : "light-server -s . -p 7000 -w *.js, index.html # npm run build # reload"
+    "start": "light-server -s . -p 7000 -w *.js, index.html # npm run build # reload"
   },
   "author": "",
   "license": "ISC",
